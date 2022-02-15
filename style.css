@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+header {
+    display: flex;
+    background: rgb(43, 43, 43);
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 3rem;
+}
+
+header h1 {
+    color: aliceblue;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    margin: 0 1.5rem;
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    color: aliceblue;
+}
