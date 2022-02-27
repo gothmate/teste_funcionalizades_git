@@ -1,4 +1,4 @@
-﻿# teste_funcionalidades_git
+# teste_funcionalidades_git
 
 Estou modificando tudo
 segundo teste.
